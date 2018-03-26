@@ -71,7 +71,7 @@ parameters:
     import.directory: '\\shared_path\upload'
     export.delimiter: '||'
 ```
-<br>
+
 **tables_metadata.yml**<br>
 ```yml
 table1_name_in_db:
