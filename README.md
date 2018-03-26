@@ -70,7 +70,7 @@ parameters:
     database_password: ********
     import.directory: '\\shared_path\upload'
     export.delimiter: '||'
-```<br>
+```
 <br>
 **tables_metadata.yml**<br>
 ```yml
