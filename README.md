@@ -10,12 +10,13 @@ The user navigates between multiple tables via custom Menus, and displays data i
 
 ## Which challenges does it address?
 
+**Business Users**
+- When business users need to edit data inside database tables bypassing challenges with SQL knowledge, Tool installation, Connection information, Security management
+
 **BICC/IT**
  - When BICC/IT needs to manage content of configuration tables inside database and to perform massive INSERT/MERGE effectively
  - For BICC/IT to provide an easy to use UI and keep control on security to business users
-
-**Business Users**
-- When business users need to edit data inside database tables bypassing challenges with SQL knowledge, Tool installation, Connection information, Security management
+ - Get to ability to custom the UI only with configuration files and without web development knowledges
 
 ## Versions
 
