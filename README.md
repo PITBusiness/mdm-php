@@ -28,13 +28,13 @@ Version: 1.3
   -  User's authentication in Windows AD
 
 Version: 1.2
-    -  Filter data column by column
-    -  Filter data on multiple columns
-    -  Sort data column by column
-    -  Export all data displayed in a CSV file
-    -  Delete all displayed data according to filters
-    -  Import all data from a CSV file, Insert news record and Merge existing records based on Primary Key
-    -  Possibility to link a column to a language, and display only the column linked to the user's language
+  -  Filter data column by column
+  -  Filter data on multiple columns
+  -  Sort data column by column
+  -  Export all data displayed in a CSV file
+  -  Delete all displayed data according to filters
+  -  Import all data from a CSV file, Insert news record and Merge existing records based on Primary Key
+  -  Possibility to link a column to a language, and display only the column linked to the user's language
 
 Version: 1.1
   -  Connection to Microsoft SQL Server
@@ -60,7 +60,8 @@ This Master Data Manager solution is not available Open Source, please [contact 
 5. Edit the YML configuration files
 
 **parameters.yml**<br>
-`parameters:
+```yml
+parameters:
     database_host: hostname
     database_port: 1433
     database_name: db
@@ -69,11 +70,12 @@ This Master Data Manager solution is not available Open Source, please [contact 
     database_password: ********
     import.directory: '\\shared_path\upload'
     export.delimiter: '||'
-`<br>
+```<br>
 <br>
 **tables_metadata.yml**<br>
-`table_name_in_db:
-  displayName: Table Name
+```yml
+table1_name_in_db:
+  displayName: Table1 Name
   column_pk:
     displayName: 'Primary Key'
     identifier: true
@@ -98,7 +100,7 @@ This Master Data Manager solution is not available Open Source, please [contact 
   creation_date:
     visibleListing: true
     visibleForm: false
-`
+```
 ----------
 
 ### Copyright
