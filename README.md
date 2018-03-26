@@ -5,7 +5,7 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 
 # Master Data Manager
 
-
+[![Scorecard - PIT Business - Screencast](img/mdm-screenshot-playvideo.png)](https://drive.google.com/file/d/1K6vq7hg0fNSlUcyiB98MaFzOOW0gdlqw/preview)<br>
 
 ## Which challenges does it address?
 
