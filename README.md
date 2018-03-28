@@ -52,7 +52,7 @@ Version: 1.1
 Techonologies: PHP, Symfony, HTML, CSS, JavaScript, JQuery, TWIG, Windows SQL Server, T-SQL, Windows AD, LDAP.
 
 ### Quick installation
-This Master Data Manager solution is not available Open Source, please [contact PIT Business](http://www.pit-business.com) to get the MDM Solution.<br>
+This Master Data Manager is not available without context introduction and basic understandings, please [contact PIT Business](http://www.pit-business.com) to get the MDM Solution.<br>
 
 1. Install IIS >= 8.0 on Windows Server >= 2012
 2. Install PHP >= 7.0 on Windows Server >= 2012
